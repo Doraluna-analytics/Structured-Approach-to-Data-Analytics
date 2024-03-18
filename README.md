@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1u7n7gCyIXDVqcmRVtvKfhIyG5Z_YNbcTYfe8wzcF
 
 
 
-M1S3 SQL Queries & Debugged Queries:
+M1S3 Basic SQL Queries & Debugged Queries:
 
 https://docs.google.com/spreadsheets/d/1r_fCNtOC-xp4u968TwbJdl2WK2XO2f1v0YW2gxTYhkQ/edit?usp=sharing
 
